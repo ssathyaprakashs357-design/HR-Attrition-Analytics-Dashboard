@@ -89,18 +89,6 @@ This dashboard converts employee data into actionable business insights that hel
 
 ⸻
 
-Project Structure
-
-HR-Attrition-Analytics-Dashboard
-│
-├── Dataset
-├── Dashboard
-├── Screenshots
-├── Recording
-└── README.md
-
-⸻
-
 Dashboard Preview
 
 Dashboard screenshots and screen recording are included within this repository.
